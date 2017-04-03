@@ -1,0 +1,5 @@
+C:\Users\Amjad-AJ\Amjad\Documents\Visual Studio 2015\Projects\WordFilterService\bin\WordFilterService.dll.config
+C:\Users\Amjad-AJ\Amjad\Documents\Visual Studio 2015\Projects\WordFilterService\bin\WordFilterService.dll
+C:\Users\Amjad-AJ\Amjad\Documents\Visual Studio 2015\Projects\WordFilterService\bin\WordFilterService.pdb
+C:\Users\Amjad-AJ\Amjad\Documents\Visual Studio 2015\Projects\WordFilterService\obj\Debug\WordFilterService.dll
+C:\Users\Amjad-AJ\Amjad\Documents\Visual Studio 2015\Projects\WordFilterService\obj\Debug\WordFilterService.pdb

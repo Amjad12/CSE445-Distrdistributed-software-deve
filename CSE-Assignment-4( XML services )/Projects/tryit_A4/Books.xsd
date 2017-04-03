@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+         <!-- XML Schema Generated from XML Document on Sun Oct 30 2016 15:15:02 GMT-0700 (US Mountain Standard Time) -->
+         <!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+         <xs:element name="Books">
+               <xs:complexType>
+                     <xs:sequence>
+                           <xs:element name="Book">
+                                 <xs:complexType>
+                                       <xs:sequence>
+                                             <xs:element name="Isbn" type="xs:string"></xs:element>
+                                             <xs:element name="Title" type="xs:string"></xs:element>
+                                             <xs:element name="Author">
+                                                   <xs:complexType>
+                                                         <xs:sequence>
+                                                               <xs:element name="Name">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="First" type="xs:string"></xs:element>
+                                                                                 <xs:element name="Last" type="xs:string"></xs:element>
+                                                                           </xs:sequence>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                               <xs:element name="Contact">
+                                                                     <xs:complexType>
+                                                                           <xs:sequence>
+                                                                                 <xs:element name="Phone" type="xs:int"></xs:element>
+                                                                           </xs:sequence>
+                                                                           <xs:attribute name="Office" type="xs:string"></xs:attribute>
+                                                                     </xs:complexType>
+                                                               </xs:element>
+                                                         </xs:sequence>
+                                                   </xs:complexType>
+                                             </xs:element>
+                                             <xs:element name="Publisher" type="xs:string"></xs:element>
+                                             <xs:element name="Year" type="xs:int">                                                   
+                                             </xs:element>
+                                       </xs:sequence>
+                                       <xs:attribute name="Cover" type="xs:string"></xs:attribute>
+                                       <xs:attribute name="required" type="xs:string"></xs:attribute>
+                                 </xs:complexType>
+                           </xs:element>
+                     </xs:sequence>
+               </xs:complexType>
+         </xs:element>
+   </xs:schema>

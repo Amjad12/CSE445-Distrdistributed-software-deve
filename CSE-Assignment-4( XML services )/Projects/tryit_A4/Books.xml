@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Books>
+	<Book Cover = "Paper back">
+		<Isbn>
+			978-1-4652-0558-2
+		</Isbn>
+		<Title>
+			Service-Oriented Computing
+		</Title>
+		<Author>
+			<Name>
+				<First>
+					John
+				</First>
+				<Last>
+					Doe
+				</Last>
+			</Name>
+			<Contact Office = "BY400">
+				<Phone>
+					480965000
+				</Phone>
+			</Contact>
+		</Author>
+		<Publisher>
+			Kendall Hunt
+		</Publisher>
+		<Year>
+			2015
+		</Year>
+	</Book>
+</Books>

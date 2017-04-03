@@ -1,0 +1,6 @@
+c:\users\amjad-aj\Documents\Visual Studio 2015\Projects\Xml_service_1\Xml_service_2\bin\Xml_service_2.dll.config
+c:\users\amjad-aj\Documents\Visual Studio 2015\Projects\Xml_service_1\Xml_service_2\bin\Xml_service_2.dll
+c:\users\amjad-aj\Documents\Visual Studio 2015\Projects\Xml_service_1\Xml_service_2\bin\Xml_service_2.pdb
+c:\users\amjad-aj\Documents\Visual Studio 2015\Projects\Xml_service_1\Xml_service_2\obj\Debug\Xml_service_2.dll
+c:\users\amjad-aj\Documents\Visual Studio 2015\Projects\Xml_service_1\Xml_service_2\obj\Debug\Xml_service_2.pdb
+c:\users\amjad-aj\Documents\Visual Studio 2015\Projects\Xml_service_1\Xml_service_2\obj\Debug\Xml_service_2.csprojResolveAssemblyReference.cache

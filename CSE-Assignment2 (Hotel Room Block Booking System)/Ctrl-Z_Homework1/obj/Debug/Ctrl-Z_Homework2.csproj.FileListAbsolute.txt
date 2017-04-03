@@ -1,0 +1,6 @@
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\Ctrl-Z_Homework2\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe.config
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\Ctrl-Z_Homework2\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.exe
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\Ctrl-Z_Homework2\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.pdb
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\Ctrl-Z_Homework2\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\Ctrl-Z_Homework2\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.pdb
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\Ctrl-Z_Homework2\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework2.csprojResolveAssemblyReference.cache

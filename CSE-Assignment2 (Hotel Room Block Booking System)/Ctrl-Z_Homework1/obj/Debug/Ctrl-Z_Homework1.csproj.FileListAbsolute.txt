@@ -1,0 +1,16 @@
+c:\users\jan\documents\visual studio 2015\Projects\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe.config
+C:\Users\aaalqah3\Downloads\Ctrl-Z_Homework1 (1)\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe.config
+C:\Users\aaalqah3\Downloads\Ctrl-Z_Homework1 (1)\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.csprojResolveAssemblyReference.cache
+C:\Users\aaalqah3\Downloads\Ctrl-Z_Homework1 (1)\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe
+C:\Users\aaalqah3\Downloads\Ctrl-Z_Homework1 (1)\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.pdb
+C:\Users\aaalqah3\Downloads\Ctrl-Z_Homework1 (1)\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.exe
+C:\Users\aaalqah3\Downloads\Ctrl-Z_Homework1 (1)\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.pdb
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe.config
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.exe
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.pdb
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_92416_311pm\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe.config
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_92416_311pm\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.exe
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_92416_311pm\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\bin\Debug\Ctrl-Z_Homework1.pdb
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_92416_311pm\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.exe
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_92416_311pm\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.pdb
+C:\Users\Jan\Documents\ASU\Super Senior Semester\Ctrl-Z_Homework1_updated_92416_311pm\Ctrl-Z_Homework1_updated_9_23_12_am\Ctrl-Z_Homework1\Ctrl-Z_Homework1\obj\Debug\Ctrl-Z_Homework1.csprojResolveAssemblyReference.cache

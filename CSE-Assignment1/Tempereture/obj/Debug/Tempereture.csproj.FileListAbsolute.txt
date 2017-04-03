@@ -1,0 +1,38 @@
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\ApplicationInsights.config
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Tempereture.dll.config
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Tempereture.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Tempereture.pdb
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.Web.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.ApplicationInsights.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.Web.xml
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\bin\Microsoft.ApplicationInsights.xml
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\obj\Debug\Tempereture.dll
+c:\users\aaalqah3\documents\visual studio 2015\Projects\Tempereture\Tempereture\obj\Debug\Tempereture.pdb
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\Tempereture\obj\Debug\Tempereture.csprojResolveAssemblyReference.cache
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\ApplicationInsights.config
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Tempereture.dll.config
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Tempereture.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Tempereture.pdb
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.Web.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.Web.xml
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\obj\Debug\Tempereture.csprojResolveAssemblyReference.cache
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\obj\Debug\Tempereture.dll
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\Tempereture\obj\Debug\Tempereture.pdb

@@ -1,0 +1,18 @@
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\bin\Debug\AmjadWebBrowser.exe.config
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\bin\Debug\AmjadWebBrowser.exe
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\bin\Debug\AmjadWebBrowser.pdb
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.Form1.resources
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.Properties.Resources.resources
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.csproj.GenerateResource.Cache
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.exe
+C:\Users\aaalqah3\Documents\Visual Studio 2015\Projects\Tempereture\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.pdb
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\bin\Debug\AmjadWebBrowser.exe.config
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.exe
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.pdb
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\bin\Debug\AmjadWebBrowser.exe
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\bin\Debug\AmjadWebBrowser.pdb
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.Form1.resources
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.Properties.Resources.resources
+C:\Users\Amjad-AJ\Amjad\Documents\CSE445\CSE-Assignment1\AmjadWebBrowser\obj\Debug\AmjadWebBrowser.csproj.GenerateResource.Cache
